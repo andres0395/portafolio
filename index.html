@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous"> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&family=Ubuntu&display=swap');
+        *{
+            box-sizing: border-box;
+            font-family: 'Roboto Mono', monospace;
+            margin: 0;
+            padding: 0;
+        }
+        html{
+            scroll-behavior: smooth;
+        }
+        .contenedor-header{
+            background: #1e2326;
+            position: relative;
+            width: 100%;
+            top: 0;
+            left: 0;
+            z-index: 99;
+        }
+        .contenedor-header header{
+            max-width: 1100px;
+            margin: auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 20px;
+        }
+        .contenedor-header header .logo a{
+            font-family: 'Roboto Mono', monospace;
+            font-size: 33px;
+            color: #086F3F;
+            text-decoration: none;
+        }
+        .contenedor-header header ul{
+            display: flex;
+            list-style: none;
+        }
+        .contenedor-header header nav ul li a{
+            text-align: none;
+            color: #fff;
+            margin: 0 15px;
+            padding: 3px;
+            text-decoration: none;
+            transition: .5s;
+        }
+        .contenedor-header header nav ul li a:hover{
+            color: aqua;
+
+        }
+        .nav-responsive{
+            background-color: aqua;
+            color: #fff;
+            padding: 5px 10px;
+            border-radius: 5px;
+            cursor: pointer;
+            display: none;
+        }
+        .inicio{
+            background: linear-gradient(to top, rgba(30,35,38,.8),rgba(30,35,38,1)), url(programa.jpg);
+            background-size: cover;
+            height: 100vh;
+            color: #fff;
+            display: flex;
+            align-items: center;
+        }
+        .inicio .contenedor-banner {
+            padding: 20px;
+            background-color: #1e2326;
+            max-width: 350px;
+            margin: auto;
+            text-align: center;
+            border-radius: 40px;
+        }
+        .inicio .contenedor-banner img{
+            margin-top: 40px;
+            border: 10px solid #1cb698;
+            display: block;
+            width: 80%;
+            margin: auto;
+            border-radius: 60px;
+        }
+        .inicio .contenedor-banner h1{
+            margin-top: 40px;
+            font-size: 42px;
+            font-family: 'Ubuntu', monospace;
+        }
+        .inicio .contenedor-banner h2{
+            font-size: 15px;
+            font-weight: normal;
+        }
+        .inicio .contenedor-banner .redes a{
+            color: #fff;
+            display: inline-block;
+            text-decoration: none;
+            border: 1px solid #fff;
+            border-radius: 100%;
+            width: 42px;
+            height: 42px;
+            line-height: 42px;
+            margin: 40px 5px;
+            font-size: 20px;
+            transition: .3s;
+        }
+        .inicio .contenedor-banner .redes a:hover{
+            background-color: #1cb698;
+        }
+        .about {
+            background-color: #1e2326;
+            color: #fff;
+            padding: 50px 20px;
+        }
+        .about .contenido-seccion{
+            max-width: 1100px;
+            margin: auto;
+        }
+        .about h2{
+            font-size: 48px;
+            font-family: 'Ubuntu';
+            text-align: center;
+            padding: 20px 0;
+        }
+        .about .contenido-seccion p{
+            font: 18px;
+            line-height: 22px;
+            margin-bottom: 20px;
+        }
+        .about .contenido-seccion p span{
+            color: #086F3F;
+            font-weight: bold;
+        }
+        .about .fila{
+            display: flex;
+        }
+        .about .fila .col{
+            width: 50%;
+        }
+        .about .fila .col h3{
+            font-size: 28px;
+            font-family: 'Roboto Mono' ;
+            margin-bottom: 25px;
+        }
+        .about .fila .col ul{
+            list-style: none;
+        }
+        .about .fila .col ul li{
+            margin: 12px 0;
+        }
+        .about .fila .col ul li strong{
+            display: inline-block;
+            color: #086F3F;
+            width: 130px;
+        }
+        .about .fila .col ul li span{
+            background-color: #086F3F;
+            padding: 3px;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+
+        .img_per{
+            max-width: 200px;
+            max-height: 200px;
+            border-radius: 60px;
+        }
+
+    </style>
+</head>
+<body class="">
+    <main>
+        <div class="contenedor-header">
+            <header>
+                <div class="logo">
+                    <a href="#">TIENDA</a>
+                </div>
+                <nav id="nav">
+                    <ul>
+                        <li><a href="#inicio">INICIO</a></li>
+                        <li><a href="#about">ACERCA DE MI</a></li>
+                        <li><a href="#skil">HABILIDADES</a></li>
+                        <li><a href="#curriculum">CURRICULUM</a></li>
+                        <li><a href="#portafolio">PORTAFOLIO</a></li>
+                        <li><a href="#contacto">CONTACTO</a></li>
+                    </ul>
+                </nav>
+                <div class="nav-responsive">
+                    <i class="fa-solid fa-bars"></i>
+                </div>
+            </header>
+        </div>
+        <section id="inicio" class="inicio">
+            <div class="contenedor-banner">
+                <div class="contenedor-img">
+                    <img class="img_per" src="perfil.jpg" alt="foto de perfil">
+                </div>
+                <h1>ANDRES MUÑOZ</h1>
+                <h2>TECNICO EN DESARROLLO WEB</h2>
+                <div class="redes">
+                    <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+                    <a href="#"><i class="fa-brands fa-github"></i></a>
+                    <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
+                </div>
+            </div>
+        </section>
+        <section id="about" class="about">
+            <div class="contenido-seccion">
+                <h2>Acerca De Mí</h2>
+                <p><span>Hola Soy Andres Muñoz</span> Front-End con vanilla JavaScript, CSS, Html, Bootstrap. Back-End con PHP y Python(Flask). Me gusta el trabajo en equipo, soy responsable en mis obligaciones, aprendo y asimilo fácilmente todas las tareas que me asignan. Me desempeño en especificar problemas, analizar límites y restricciones en la solución, comparar fortalezas y debilidades de las diferentes tecnologías, proponer y valorar alternativas mediante la estructuración de proyectos.</p>
+
+                <div class="fila">
+                    <div class="col">
+                        <h3>Datos Personales</h3>
+                        <ul>
+                            <li>
+                                <strong>Fecha De Nacimiento:</strong> 03-11-1995
+                            </li>
+                            <li>
+                                <strong>Telefono:</strong> 3177556815
+                            </li>
+                            <li>
+                                <strong>Email:</strong> anmuce03@gmail.com
+                            </li>
+                            <li>
+                                <strong>Residencia:</strong> Medellin, Colombia
+                            </li>
+                            <li>
+                                <strong>Labor:</strong> <span>Programador</span>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="col">
+                        <h3>Hobbies</h3>
+                        <div class="contenedor-intereses">
+                            <div class="interes">
+                                <i class="fa-sharp fa-solid fa-book"></i>
+                                <span>Lectura</span>
+                            </div>
+                            <div class="interes">
+                                <i class="fa-solid fa-brush"></i>
+                                <span>Arte</span>
+                            </div>
+                            <div class="interes">
+                                <i class="fa-solid fa-code"></i>
+                                <span>Tecnologia</span>
+                            </div>
+                            <div class="interes">
+                                <i class="fa-solid fa-square-root-variable"></i>
+                                <span>Matematicas</span>
+                            </div>
+                            <div class="interes">
+                                <i class="fa-solid fa-motorcycle"></i>
+                                <span>Motos</span>
+                            </div>
+                            <div class="interes">
+                                <i class="fa-solid fa-gamepad"></i>
+                                <span>Videojuegos</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button>
+                    Descargar CV <i class="fa-solid fa-download"></i>
+                    <span class="overlay"></span>
+                </button>
+            </div>
+        </section>
+    </main>
+
+    <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+    <script src="https://cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+
+        });
+    </script>
+</body>
+</html>
