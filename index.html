@@ -19,7 +19,7 @@
         }
         .contenedor-header{
             background: #1e2326;
-            position: relative;
+            position: fixed;
             width: 100%;
             top: 0;
             left: 0;
@@ -66,7 +66,7 @@
         .inicio{
             background: linear-gradient(to top, rgba(30,35,38,.8),rgba(30,35,38,1)), url(programa.jpg);
             background-size: cover;
-            height: 100vh;
+            height: 120vh;
             color: #fff;
             display: flex;
             align-items: center;
@@ -164,6 +164,181 @@
             font-weight: bold;
             border-radius: 5px;
         }
+        .about .fila .col .contenedor-intereses{
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .about .fila .col .contenedor-intereses .interes{
+            display: flex;
+            
+            width: 120px;
+            height: 100px;
+            background-color: #252A2E;
+            border-radius: 10px;
+            margin: 0 15px 15px 0;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            transition: .3s;
+        }
+        .about .fila .col .contenedor-intereses .interes:hover{
+            background-color: #1cb698;
+        }
+        .about .fila .col .contenedor-intereses .interes i{
+            font-size: 30px;
+            margin-bottom: 10px;
+        }
+        .about button{
+            cursor: pointer;
+            background-color: transparent;
+            border: 2px solid #fff;
+            width: fit-content;
+            display: block;
+            margin: 20px auto;
+            padding: 10px 22px ;
+            font-size: 16px;
+            color: #fff;
+            position: relative;
+            border-radius: 10px;
+            z-index: 10;
+        }
+        .about button .overlay{
+            position: absolute;
+            top: 0;
+            border-radius: 10px;
+            left: 0;
+            width: 0;
+            height: 100%;
+            background-color: #086F3F;
+            z-index: -1;
+            transition: 1s;
+        }
+        .about button:hover .overlay{
+            width: 100%;
+            border-radius: 10px;
+        }
+        .skills {
+            background-color: #252A2E;
+            color: #fff;
+            padding: 50px 20px;
+        }
+        .skills .contenido-seccion{
+            max-width: 1100px;
+            margin: auto;
+        }
+        .skills h2{
+            font-size: 48px;
+            font-family: 'Ubuntu';
+            text-align: center;
+            padding: 20px 0;
+        }
+        .skills .fila{
+            display: flex;
+        }
+        .skills .fila .col{
+            width: 50%;
+            padding: 0 20px;
+        }
+        .skills .fila .col h3{
+            font-size: 28px;
+            font-family: 'Roboto Mono' ;
+            margin-bottom: 25px;
+        }
+        .skills .skill span{
+            font-weight: bold;
+            display: block;
+            margin-bottom: 10px;
+        }
+        .skills .skill .barra-skill{
+            height: 8px;
+            width: 80%;
+            background-color: #131517;
+            position: relative;
+            margin-bottom: 30px;
+        }
+        .skills .skill .progreso{
+            background-color: #086F3F;
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 8px;
+        }
+        .skills .skill .barra-skill span{
+            position:absolute;
+            height: 40px;
+            width: 40px;
+            background-color: #086F3F;
+            border-radius: 50px;
+            line-height: 40px;
+            text-align: center;
+            top: -17px;
+            right: -15px;
+            font-size: 14px;
+        }
+        .skills .skill .javascript{
+            width: 0%;
+            animation: 2s javascript forwards;
+        }
+        @keyframes javascript{
+            0%{width: 0%;}
+            100%{width: 65%;}
+        }
+        .skills .skill .php{
+            width: 0%;
+            animation: 2s php forwards;
+        }
+        @keyframes php{
+            0%{width: 0%;}
+            100%{width: 40%;}
+        }
+        .skills .skill .python{
+            width: 0%;
+            animation: 2s python forwards;
+        }
+        @keyframes python{
+            0%{width: 0%;}
+            100%{width: 45%;}
+        }
+        .skills .skill .mysql{
+            width: 0%;
+            animation: 2s mysql forwards;
+        }
+        @keyframes mysql{
+            0%{width: 0%;}
+            100%{width: 45%;}
+        }
+        .skills .skill .html{
+            width: 0%;
+            animation: 2s html forwards;
+        }
+        @keyframes html{
+            0%{width: 0%;}
+            100%{width: 80%;}
+        }
+        .skills .skill .bootstrap{
+            width: 0%;
+            animation: 2s bootstrap forwards;
+        }
+        @keyframes bootstrap{
+            0%{width: 0%;}
+            100%{width: 70%;}
+        }
+        .skills .skill .css{
+            width: 0%;
+            animation: 2s css forwards;
+        }
+        @keyframes css{
+            0%{width: 0%;}
+            100%{width: 70%;}
+        }
+        .skills .skill .github{
+            width: 0%;
+            animation: 2s github forwards;
+        }
+        @keyframes github{
+            0%{width: 0%;}
+            100%{width: 55%;}
+        }
 
         .img_per{
             max-width: 200px;
@@ -184,7 +359,7 @@
                     <ul>
                         <li><a href="#inicio">INICIO</a></li>
                         <li><a href="#about">ACERCA DE MI</a></li>
-                        <li><a href="#skil">HABILIDADES</a></li>
+                        <li><a href="#skills">HABILIDADES</a></li>
                         <li><a href="#curriculum">CURRICULUM</a></li>
                         <li><a href="#portafolio">PORTAFOLIO</a></li>
                         <li><a href="#contacto">CONTACTO</a></li>
@@ -212,7 +387,8 @@
         <section id="about" class="about">
             <div class="contenido-seccion">
                 <h2>Acerca De Mí</h2>
-                <p><span>Hola Soy Andres Muñoz</span> Front-End con vanilla JavaScript, CSS, Html, Bootstrap. Back-End con PHP y Python(Flask). Me gusta el trabajo en equipo, soy responsable en mis obligaciones, aprendo y asimilo fácilmente todas las tareas que me asignan. Me desempeño en especificar problemas, analizar límites y restricciones en la solución, comparar fortalezas y debilidades de las diferentes tecnologías, proponer y valorar alternativas mediante la estructuración de proyectos.</p>
+                <p><span>Hola Soy Andres Muñoz</span> Front-End con vanilla JavaScript, CSS, Html, Bootstrap. Back-End con PHP y Python(Flask). <br> Me gusta el trabajo en equipo, soy responsable en mis obligaciones, en los 6 meses que trabaje en las practicas me enfoque en aprender Javascript en profundidad, logrando ejecutar y culminar el proyecto web planteado por la empresa.  
+                </p>
 
                 <div class="fila">
                     <div class="col">
@@ -236,7 +412,7 @@
                         </ul>
                     </div>
 
-                    <div class="col">
+                    <div class="col"> 
                         <h3>Hobbies</h3>
                         <div class="contenedor-intereses">
                             <div class="interes">
@@ -270,6 +446,83 @@
                     Descargar CV <i class="fa-solid fa-download"></i>
                     <span class="overlay"></span>
                 </button>
+            </div>
+        </section>
+        <section id="skills" class="skills" >
+            <div class="contenido-seccion">
+                <h2>HABILIDADES</h2>
+                <div class="fila">
+                    <div class="col">
+                        <h3>LENGUAJES Y DB</h3>
+                        <div class="skill">
+                            <span>JavaScript</span>
+                            <div class="barra-skill">
+                                <div class="progreso">
+                                    <span>65%</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="skill">
+                            <span>PHP</span>
+                            <div class="barra-skill">
+                                <div class="progreso">
+                                    <span>40%</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="skill">
+                            <span>Python</span>
+                            <div class="barra-skill">
+                                <div class="progreso">
+                                    <span>45%</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="skill">
+                            <span>MySql</span>
+                            <div class="barra-skill">
+                                <div class="progreso">
+                                    <span>45%</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <h3>MAQUETADO Y REPOSITORIOS</h3>
+                        <div class="skill">
+                            <span>HTML</span>
+                            <div class="barra-skill">
+                                <div class="progreso">
+                                    <span>80%</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="skill">
+                            <span>Bootstrap</span>
+                            <div class="barra-skill">
+                                <div class="progreso">
+                                    <span>70%</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="skill">
+                            <span>CSS</span>
+                            <div class="barra-skill">
+                                <div class="progreso">
+                                    <span>70%</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="skill">
+                            <span>GitHub</span>
+                            <div class="barra-skill">
+                                <div class="progreso">
+                                    <span>55%</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
     </main>
