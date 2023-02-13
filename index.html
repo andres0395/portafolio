@@ -1,393 +1,107 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous"> -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&family=Ubuntu&display=swap');
-        *{
-            box-sizing: border-box;
-            font-family: 'Roboto Mono', monospace;
-            margin: 0;
-            padding: 0;
-        }
-        html{
-            scroll-behavior: smooth;
-        }
-        .contenedor-header{
-            background: #1e2326;
-            position: fixed;
-            width: 100%;
-            top: 0;
-            left: 0;
-            z-index: 99;
-        }
-        .contenedor-header header{
-            max-width: 1100px;
-            margin: auto;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 15px 20px;
-        }
-        .contenedor-header header .logo a{
-            font-family: 'Roboto Mono', monospace;
-            font-size: 33px;
-            color: #086F3F;
-            text-decoration: none;
-        }
-        .contenedor-header header ul{
-            display: flex;
-            list-style: none;
-        }
-        .contenedor-header header nav ul li a{
-            text-align: none;
-            color: #fff;
-            margin: 0 15px;
-            padding: 3px;
-            text-decoration: none;
-            transition: .5s;
-        }
-        .contenedor-header header nav ul li a:hover{
-            color: aqua;
-
-        }
-        .nav-responsive{
-            background-color: aqua;
-            color: #fff;
-            padding: 5px 10px;
-            border-radius: 5px;
-            cursor: pointer;
-            display: none;
-        }
-        .inicio{
-            background: linear-gradient(to top, rgba(30,35,38,.8),rgba(30,35,38,1)), url(programa.jpg);
-            background-size: cover;
-            height: 120vh;
-            color: #fff;
-            display: flex;
-            align-items: center;
-        }
-        .inicio .contenedor-banner {
-            padding: 20px;
-            background-color: #1e2326;
-            max-width: 350px;
-            margin: auto;
-            text-align: center;
-            border-radius: 40px;
-        }
-        .inicio .contenedor-banner img{
-            margin-top: 40px;
-            border: 10px solid #1cb698;
-            display: block;
-            width: 80%;
-            margin: auto;
-            border-radius: 60px;
-        }
-        .inicio .contenedor-banner h1{
-            margin-top: 40px;
-            font-size: 42px;
-            font-family: 'Ubuntu', monospace;
-        }
-        .inicio .contenedor-banner h2{
-            font-size: 15px;
-            font-weight: normal;
-        }
-        .inicio .contenedor-banner .redes a{
-            color: #fff;
-            display: inline-block;
-            text-decoration: none;
-            border: 1px solid #fff;
-            border-radius: 100%;
-            width: 42px;
-            height: 42px;
-            line-height: 42px;
-            margin: 40px 5px;
-            font-size: 20px;
-            transition: .3s;
-        }
-        .inicio .contenedor-banner .redes a:hover{
-            background-color: #1cb698;
-        }
-        .about {
-            background-color: #1e2326;
-            color: #fff;
-            padding: 50px 20px;
-        }
-        .about .contenido-seccion{
-            max-width: 1100px;
-            margin: auto;
-        }
-        .about h2{
-            font-size: 48px;
-            font-family: 'Ubuntu';
-            text-align: center;
-            padding: 20px 0;
-        }
-        .about .contenido-seccion p{
-            font: 18px;
-            line-height: 22px;
-            margin-bottom: 20px;
-        }
-        .about .contenido-seccion p span{
-            color: #086F3F;
-            font-weight: bold;
-        }
-        .about .fila{
-            display: flex;
-        }
-        .about .fila .col{
-            width: 50%;
-        }
-        .about .fila .col h3{
-            font-size: 28px;
-            font-family: 'Roboto Mono' ;
-            margin-bottom: 25px;
-        }
-        .about .fila .col ul{
-            list-style: none;
-        }
-        .about .fila .col ul li{
-            margin: 12px 0;
-        }
-        .about .fila .col ul li strong{
-            display: inline-block;
-            color: #086F3F;
-            width: 130px;
-        }
-        .about .fila .col ul li span{
-            background-color: #086F3F;
-            padding: 3px;
-            font-weight: bold;
-            border-radius: 5px;
-        }
-        .about .fila .col .contenedor-intereses{
-            display: flex;
-            flex-wrap: wrap;
-        }
-        .about .fila .col .contenedor-intereses .interes{
-            display: flex;
-            
-            width: 120px;
-            height: 100px;
-            background-color: #252A2E;
-            border-radius: 10px;
-            margin: 0 15px 15px 0;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            transition: .3s;
-        }
-        .about .fila .col .contenedor-intereses .interes:hover{
-            background-color: #1cb698;
-        }
-        .about .fila .col .contenedor-intereses .interes i{
-            font-size: 30px;
-            margin-bottom: 10px;
-        }
-        .about button{
-            cursor: pointer;
-            background-color: transparent;
-            border: 2px solid #fff;
-            width: fit-content;
-            display: block;
-            margin: 20px auto;
-            padding: 10px 22px ;
-            font-size: 16px;
-            color: #fff;
-            position: relative;
-            border-radius: 10px;
-            z-index: 10;
-        }
-        .about button .overlay{
-            position: absolute;
-            top: 0;
-            border-radius: 10px;
-            left: 0;
-            width: 0;
-            height: 100%;
-            background-color: #086F3F;
-            z-index: -1;
-            transition: 1s;
-        }
-        .about button:hover .overlay{
-            width: 100%;
-            border-radius: 10px;
-        }
-        .skills {
-            background-color: #252A2E;
-            color: #fff;
-            padding: 50px 20px;
-        }
-        .skills .contenido-seccion{
-            max-width: 1100px;
-            margin: auto;
-        }
-        .skills h2{
-            font-size: 48px;
-            font-family: 'Ubuntu';
-            text-align: center;
-            padding: 20px 0;
-        }
-        .skills .fila{
-            display: flex;
-        }
-        .skills .fila .col{
-            width: 50%;
-            padding: 0 20px;
-        }
-        .skills .fila .col h3{
-            font-size: 28px;
-            font-family: 'Roboto Mono' ;
-            margin-bottom: 25px;
-        }
-        .skills .skill span{
-            font-weight: bold;
-            display: block;
-            margin-bottom: 10px;
-        }
-        .skills .skill .barra-skill{
-            height: 8px;
-            width: 80%;
-            background-color: #131517;
-            position: relative;
-            margin-bottom: 30px;
-        }
-        .skills .skill .progreso{
-            background-color: #086F3F;
-            position: absolute;
-            top: 0;
-            left: 0;
-            height: 8px;
-        }
-        .skills .skill .barra-skill span{
-            position:absolute;
-            height: 40px;
-            width: 40px;
-            background-color: #086F3F;
-            border-radius: 50px;
-            line-height: 40px;
-            text-align: center;
-            top: -17px;
-            right: -15px;
-            font-size: 14px;
-        }
-        .skills .skill .javascript{
-            width: 0%;
-            animation: 2s javascript forwards;
-        }
-        @keyframes javascript{
-            0%{width: 0%;}
-            100%{width: 65%;}
-        }
-        .skills .skill .php{
-            width: 0%;
-            animation: 2s php forwards;
-        }
-        @keyframes php{
-            0%{width: 0%;}
-            100%{width: 40%;}
-        }
-        .skills .skill .python{
-            width: 0%;
-            animation: 2s python forwards;
-        }
-        @keyframes python{
-            0%{width: 0%;}
-            100%{width: 45%;}
-        }
-        .skills .skill .mysql{
-            width: 0%;
-            animation: 2s mysql forwards;
-        }
-        @keyframes mysql{
-            0%{width: 0%;}
-            100%{width: 45%;}
-        }
-        .skills .skill .html{
-            width: 0%;
-            animation: 2s html forwards;
-        }
-        @keyframes html{
-            0%{width: 0%;}
-            100%{width: 80%;}
-        }
-        .skills .skill .bootstrap{
-            width: 0%;
-            animation: 2s bootstrap forwards;
-        }
-        @keyframes bootstrap{
-            0%{width: 0%;}
-            100%{width: 70%;}
-        }
-        .skills .skill .css{
-            width: 0%;
-            animation: 2s css forwards;
-        }
-        @keyframes css{
-            0%{width: 0%;}
-            100%{width: 70%;}
-        }
-        .skills .skill .github{
-            width: 0%;
-            animation: 2s github forwards;
-        }
-        @keyframes github{
-            0%{width: 0%;}
-            100%{width: 55%;}
-        }
-
-        .img_per{
-            max-width: 200px;
-            max-height: 200px;
-            border-radius: 60px;
-        }
-
-    </style>
+    <title>portafolio</title>
+    <link rel="stylesheet" href="style.css">
 </head>
-<body class="">
-    <main>
+<body style="overflow-x: hidden;">
+    <main class="mostrar" style="background-color: #1e2326;">
+        <div>
+            <header>
+                <div>
+                    <a href="#" class="clickaqui">TIENDA</a>
+                </div>
+            </header>
+        </div>
+        <h1>viste que no se recargo la pagina?... intentalo de nuevo</h1>
+        <h2>zona en construcion</h2>
+        <div class="content">
+            <div class="card" >
+                <div class="card-info" style="--clr:#ddef12;">
+                <p class="title">JavaScript</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-info" style="--clr:#0077ff;">
+                <p class="title">Css</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-info" style="--clr:#ff4d00;">
+                <p class="title">Html</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-info" style="--clr:#01ff01;">
+                <p class="title">Python</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-info" style="--clr:#790573;">
+                <p class="title">Php</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-info" style="--clr:#ca4aed;">
+                <p class="title">Bootstrap</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-info" style="--clr:#54A4FF;">
+                <p class="title">My Sql</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-info" style="--clr:#a401ff;">
+                <p class="title">GitHub</p>
+                </div>
+            </div>
+            
+        </div>
+    </main>
+    <main class="">
         <div class="contenedor-header">
             <header>
                 <div class="logo">
-                    <a href="#">TIENDA</a>
+                    <a href="#" class="clickaqui">TIENDA</a>
                 </div>
-                <nav id="nav">
+                <nav id="nav"  class="">
                     <ul>
-                        <li><a href="#inicio">INICIO</a></li>
-                        <li><a href="#about">ACERCA DE MI</a></li>
-                        <li><a href="#skills">HABILIDADES</a></li>
-                        <li><a href="#curriculum">CURRICULUM</a></li>
-                        <li><a href="#portafolio">PORTAFOLIO</a></li>
-                        <li><a href="#contacto">CONTACTO</a></li>
+                        <li><a href="#inicio" class="seleccionM">INICIO</a></li>
+                        <li><a href="#about" class="seleccionM">ACERCA DE MI</a></li>
+                        <li><a href="#skills" class="seleccionM">HABILIDADES</a></li>
+                        <li><a href="#curriculum" class="seleccionM">CURRICULUM</a></li>
+                        <li><a href="#portafolio" class="seleccionM">PORTAFOLIO</a></li>
+                        <li><a href="#contacto" class="seleccionM">CONTACTO</a></li>
                     </ul>
                 </nav>
                 <div class="nav-responsive">
-                    <i class="fa-solid fa-bars"></i>
+                    <i id="btn_nav" class="fa-solid fa-bars"></i>
                 </div>
             </header>
         </div>
         <section id="inicio" class="inicio">
             <div class="contenedor-banner">
                 <div class="contenedor-img">
-                    <img class="img_per" src="perfil.jpg" alt="foto de perfil">
+                    <img class="img_per" src="https://i.postimg.cc/R3CL5fvf/perfil.jpg" alt="foto de perfil">
                 </div>
                 <h1>ANDRES MUÑOZ</h1>
-                <h2>TECNICO EN DESARROLLO WEB</h2>
+                <h2>TÉCNICO EN DESARROLLO WEB</h2>
                 <div class="redes">
-                    <a href="#"><i class="fa-brands fa-linkedin"></i></a>
-                    <a href="#"><i class="fa-brands fa-github"></i></a>
-                    <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
+                    <a href="https://www.linkedin.com/in/andres-felipe-mu%C3%B1oz-acevedo-672b0693/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+                    <a href="https://github.com/andres0395" target="_blank"><i class="fa-brands fa-github"></i></a>
+                    <a href="https://api.whatsapp.com/send?phone=573177556815"><i class="fa-brands fa-whatsapp" target="_blank"></i></a>
                 </div>
             </div>
         </section>
         <section id="about" class="about">
             <div class="contenido-seccion">
                 <h2>Acerca De Mí</h2>
-                <p><span>Hola Soy Andres Muñoz</span> Front-End con vanilla JavaScript, CSS, Html, Bootstrap. Back-End con PHP y Python(Flask). <br> Me gusta el trabajo en equipo, soy responsable en mis obligaciones, en los 6 meses que trabaje en las practicas me enfoque en aprender Javascript en profundidad, logrando ejecutar y culminar el proyecto web planteado por la empresa.  
+                <p><span>Hola Soy Andres Muñoz</span> Front-End con vanilla JavaScript, CSS, Html, Bootstrap. Back-End con PHP y Python(Flask). <br> Me gusta el trabajo en equipo, soy responsable en mis obligaciones, en los 6 meses que trabajé en las prácticas me enfoqé en aprender Javascript en profundidad, logrando ejecutar y culminar el proyecto web planteado por la empresa.  
                 </p>
 
                 <div class="fila">
@@ -404,7 +118,7 @@
                                 <strong>Email:</strong> anmuce03@gmail.com
                             </li>
                             <li>
-                                <strong>Residencia:</strong> Medellin, Colombia
+                                <strong>Residencia:</strong> Medellín, Colombia
                             </li>
                             <li>
                                 <strong>Labor:</strong> <span>Programador</span>
@@ -425,11 +139,11 @@
                             </div>
                             <div class="interes">
                                 <i class="fa-solid fa-code"></i>
-                                <span>Tecnologia</span>
+                                <span>Tecnología</span>
                             </div>
                             <div class="interes">
                                 <i class="fa-solid fa-square-root-variable"></i>
-                                <span>Matematicas</span>
+                                <span>Matemáticas</span>
                             </div>
                             <div class="interes">
                                 <i class="fa-solid fa-motorcycle"></i>
@@ -457,15 +171,15 @@
                         <div class="skill">
                             <span>JavaScript</span>
                             <div class="barra-skill">
-                                <div class="progreso">
-                                    <span>65%</span>
+                                <div class="progreso javascript">
+                                    <span>80%</span>
                                 </div>
                             </div>
                         </div>
                         <div class="skill">
                             <span>PHP</span>
                             <div class="barra-skill">
-                                <div class="progreso">
+                                <div class="progreso php">
                                     <span>40%</span>
                                 </div>
                             </div>
@@ -473,7 +187,7 @@
                         <div class="skill">
                             <span>Python</span>
                             <div class="barra-skill">
-                                <div class="progreso">
+                                <div class="progreso python">
                                     <span>45%</span>
                                 </div>
                             </div>
@@ -481,7 +195,7 @@
                         <div class="skill">
                             <span>MySql</span>
                             <div class="barra-skill">
-                                <div class="progreso">
+                                <div class="progreso mysql">
                                     <span>45%</span>
                                 </div>
                             </div>
@@ -492,7 +206,7 @@
                         <div class="skill">
                             <span>HTML</span>
                             <div class="barra-skill">
-                                <div class="progreso">
+                                <div class="progreso html">
                                     <span>80%</span>
                                 </div>
                             </div>
@@ -500,7 +214,7 @@
                         <div class="skill">
                             <span>Bootstrap</span>
                             <div class="barra-skill">
-                                <div class="progreso">
+                                <div class="progreso bootstrap">
                                     <span>70%</span>
                                 </div>
                             </div>
@@ -508,7 +222,7 @@
                         <div class="skill">
                             <span>CSS</span>
                             <div class="barra-skill">
-                                <div class="progreso">
+                                <div class="progreso css">
                                     <span>70%</span>
                                 </div>
                             </div>
@@ -516,7 +230,7 @@
                         <div class="skill">
                             <span>GitHub</span>
                             <div class="barra-skill">
-                                <div class="progreso">
+                                <div class="progreso github">
                                     <span>55%</span>
                                 </div>
                             </div>
@@ -525,17 +239,218 @@
                 </div>
             </div>
         </section>
-    </main>
+        <section id="curriculum" class="curriculum">
+            <div class="contenido-seccion">
+                <h2>Currículum</h2>
+                <div class="fila">
+                    <div class="col izquierda">
+                        <h3>Educacíon</h3>
+                        <div class="item izq">
+                            <h4>Técnico En Desarrollo De Aplicaciones Web</h4>
+                            <span class="casa">SENA</span>
+                            <span class="fecha">2021 - 2023</span>
+                            <p>El perfil ocupacional de la especialidad TÉCNICO EN PROGRAMA DE APLICACIONES Y SERVICIOS PARA LA
+                                NUBE es el siguiente: <br>
+                                MAQUETADO, VERSIONADO, MEJORES PRÁCTICAS DE LA INDUSTRIA, CÓDIGO FUENTE EN JS, PATRONES DE DISEÑO, APIS, BASES DE DATOS, DESPLIEGUE DE SERVICIOS WEB
+                            </p>
+                            <div class="conectori">
+                                <div class="circuloi">
 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item izq">
+                            <h4>Cursos</h4>
+                            <span class="casa">plataformas tecnológicas</span>
+                            <span class="fecha">2021</span>
+                            <p>Curso a fondo en html5 y css3 el cual tuvo una intensidad de 48 horas
+                            </p>
+                            <div class="conectori">
+                                <div class="circuloi">
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item izq">
+                            <h4>Diplomado</h4>
+                            <span class="casa">Universidad de Antioquia</span>
+                            <span class="fecha">2022</span>
+                            <p>Participé en el programa del gobierno de Colombia Mision Tic, logrando certificarme en python y javascript, el cual tuvo una intensidad de 400 horas en total 
+                            </p>
+                            <div class="conectori">
+                                <div class="circuloi">
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col derecha">
+                        <h3>Experiencia Laboral</h3>
+                        <div class="item der">
+                            <h4>Desarrollador Web Junior</h4>
+                            <span class="casa">CINCO S.A.S</span>
+                            <span class="fecha">09/2022 - 02/2023</span>
+                            <p>Prácticas como programador en el cual me desempeñé especialmente como Front-End con JavaScript, Html, Css, etc. Mi labor era desarrollar una app web d esde cero, el la cual se llevaria acabo el inventario de todas las herramientas en poseción del personal, también desarrolar con php las consultas a la base de datos, desarrolar algoritmos para que la información no presentara fallos, ya que era una empresa de mas de mil empleados.
+                            </p>
+                            <div class="conectord">
+                                <div class="circulod">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+        <section id="portafolio" class="portafolio">
+            <div class="contenido-seccion">
+                <h2>Portafolio</h2>
+                <div class="galeria">
+                    <div class="proyecto">
+                        <img src="https://i.postimg.cc/ZWSLH2gw/1841250.jpg" alt="">
+                        <div class="overlay">
+                            <h3>En Contruccion</h3>
+                            <p>construccion</p>
+                        </div>
+                    </div>
+                    <div class="proyecto">
+                        <img src="https://i.postimg.cc/ZWSLH2gw/1841250.jpg" alt="">
+                        <div class="overlay">
+                            <h3>En Contruccion</h3>
+                            <p>construccion</p>
+                        </div>
+                    </div>
+                    <div class="proyecto">
+                        <img src="https://i.postimg.cc/ZWSLH2gw/1841250.jpg" alt="">
+                        <div class="overlay">
+                            <h3>En Contruccion</h3>
+                            <p>construccion</p>
+                        </div>
+                    </div>
+                    <div class="proyecto">
+                        <img src="https://i.postimg.cc/ZWSLH2gw/1841250.jpg" alt="">
+                        <div class="overlay">
+                            <h3>En Contruccion</h3>
+                            <p>construccion</p>
+                        </div>
+                    </div>
+                    <div class="proyecto">
+                        <img src="https://i.postimg.cc/ZWSLH2gw/1841250.jpg" alt="">
+                        <div class="overlay">
+                            <h3>En Contruccion</h3>
+                            <p>construccion</p>
+                        </div>
+                    </div>
+                    <div class="proyecto">
+                        <img src="https://i.postimg.cc/ZWSLH2gw/1841250.jpg" alt="">
+                        <div class="overlay">
+                            <h3>En Contruccion</h3>
+                            <p>construccion</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="contacto" class="contacto">
+            <div class="contenido-seccion">
+                <h2>Contacto</h2>
+                <div class="fila">
+                    <div class="col">
+                        <div class="form__group field"> 
+                            <input id="" placeholder="NOMBRE" class="form__field cont" type="search">
+                            <label class="form__label" for="NOMBRE">NOMBRE</label>
+                        </div>
+                        <div class="form__group field"> 
+                            <input id="" placeholder="TELEFONO" class="form__field cont" type="search">
+                            <label class="form__label" for="TELEFONO">TELEFONO</label>
+                        </div>
+                        <div class="form__group field"> 
+                            <input id="" placeholder="EMAIL" class="form__field cont" type="search">
+                            <label class="form__label" for="EMAIL">EMAIL</label>
+                        </div>
+                        <textarea placeholder="MENSAJE" name="" id="" cols="30" rows="10"></textarea>
+                        <button data-text="Awesome" class="button">
+                            <span class="actual-text">ENVIAR</span>
+                            <span class="hover-text" aria-hidden="true">ENVIAR</span>
+                        </button>
+                    </div>
+                    <div class="col">
+                        <div class="info">
+                            <ul>
+                                <li>
+                                    <i class="fa-solid fa-location-dot"></i>
+                                    Medellín, Colombia
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-mobile-retro"></i>
+                                    Llámame: +57-3177556815
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-envelope"></i>
+                                    Email: anmuce03@gmail.com
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
     <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script> -->
+    
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
     <script src="https://cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.min.js"></script>
     <script>
-        document.addEventListener('DOMContentLoaded', () => {
+        function activePanel(){
+            console.log('object');
+            document.querySelectorAll('.mostrar').forEach(e=>{
+                e.classList.remove('mostrar');
+                this.parentNode.parentNode.parentNode.parentNode.classList.add('mostrar');
+            });
+        };
+       /* function newInput(){
+            let dat = document.getElementById('kit_add').value
+            const new_inp = {
+                new_label: `<label class="form__label" for="${dat}">${dat}</label>`,
+                new_val_inp: `<input id="${dat.toLowerCase().replaceAll(' ','_')}" placeholder="${dat}" class="form__field cont" type="search">`,
+                get fullKit() {
+                    return `<div class="form__group field"> 
+                                ${this.new_val_inp}
+                                ${this.new_label}
+                            </div>`;
+                }
+            }
+            document.getElementById('content_kit').innerHTML += new_inp.fullKit;
+            document.getElementById('kit_add').value = '';
+            ((d)=>{
+                let save = true;
+                d.querySelectorAll('cont').forEach(e=>{
+                    if(e.value == ''){
+                        save = false;
+                        new createDivMsg(`${e.value}`, 'Campo Requerido');
+                    }
+                });
+                if(!!save){
+                    d.getElementById('send_kit').removeAttribute('disabled');
+                    sendKit();
+                }
+            })(document);
+            
+        }
+        */
 
+        //ready
+        document.addEventListener('DOMContentLoaded', () => {
+            document.querySelectorAll('.clickaqui').forEach(e=> e.addEventListener('click',activePanel))
+            document.getElementById('btn_nav').addEventListener('click',e=>document.getElementById('nav').classList.toggle('responsive'));
+            //document.querySelectorAll('.list').forEach(e=> e.addEventListener('click',activePanel));
+            document.querySelectorAll('.seleccionM').forEach(e=>{
+                e.addEventListener('click',e=>document.getElementById('nav').classList.toggle('responsive'))
+            })
         });
     </script>
 </body>

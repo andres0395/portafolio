@@ -1,0 +1,2788 @@
+[
+    {
+        "codigo": "EQU0001",
+        "descripcion": "FUSIONADORA TUMTEC",
+        "precio": "5424.000",
+        "medida": "UND",
+        "tipo": "SERIALIZADO",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "FIBRA OPTICA",
+            "RED EXTERNA",
+            "PROYECTOS"
+        ]
+    },
+    {
+        "codigo": "EQU0002",
+        "descripcion": "FUSIONADORA TELEVES 232103",
+        "precio": "5424.000",
+        "medida": "UND",
+        "tipo": "SERIALIZADO",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "EQU0003",
+        "descripcion": "MEDIDOR FUGA DVR3",
+        "precio": "5424.000",
+        "medida": "UND",
+        "tipo": "SERIALIZADO",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "EQU0004",
+        "descripcion": "MEDIDOR KING KON",
+        "precio": "5424.000",
+        "medida": "UND",
+        "tipo": "SERIALIZADO",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "EQU0005",
+        "descripcion": "OTDR VIAVI",
+        "precio": "5424.000",
+        "medida": "UND",
+        "tipo": "SERIALIZADO",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "EQU0006",
+        "descripcion": "VIAVI ONE EXPERT",
+        "precio": "5424.000",
+        "medida": "UND",
+        "tipo": "SERIALIZADO",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "EQU0007",
+        "descripcion": "MSQ900",
+        "precio": "5424.000",
+        "medida": "UND",
+        "tipo": "SERIALIZADO",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "EQU0008",
+        "descripcion": "MEDIDOR CONDUCTANCIA",
+        "precio": "5424.000",
+        "medida": "UND",
+        "tipo": "SERIALIZADO",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "EQU0009",
+        "descripcion": "6300",
+        "precio": "5424.000",
+        "medida": "UND",
+        "tipo": "SERIALIZADO",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "EQU0010",
+        "descripcion": "FUSIONADORA TUOLIMA",
+        "precio": "5424.000",
+        "medida": "UND",
+        "tipo": "SERIALIZADO",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "EQU0011",
+        "descripcion": "KIT OPTICO",
+        "precio": "5424.000",
+        "medida": "UND",
+        "tipo": "SERIALIZADO",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "EQU0012",
+        "descripcion": "MDX-600",
+        "precio": "5424.000",
+        "medida": "UND",
+        "tipo": "SERIALIZADO",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "EQU0013",
+        "descripcion": "MEDIDOR 1300",
+        "precio": "5424.000",
+        "medida": "UND",
+        "tipo": "SERIALIZADO",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "EQU0014",
+        "descripcion": "MTX 150",
+        "precio": "5424.000",
+        "medida": "UND",
+        "tipo": "SERIALIZADO",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "EQU0015",
+        "descripcion": "PLANTA ELECTRICA",
+        "precio": "5424.000",
+        "medida": "UND",
+        "tipo": "SERIALIZADO",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "EQU0016",
+        "descripcion": "SITE MASTER ANRISTSU",
+        "precio": "5424.000",
+        "medida": "UND",
+        "tipo": "SERIALIZADO",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "EQU0017",
+        "descripcion": "TELEVES",
+        "precio": "5424.000",
+        "medida": "UND",
+        "tipo": "SERIALIZADO",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "EQU0018",
+        "descripcion": "TRILITHIC",
+        "precio": "5424.000",
+        "medida": "UND",
+        "tipo": "SERIALIZADO",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "EQU0019",
+        "descripcion": "FUSIONADORA INNO",
+        "precio": "5424.000",
+        "medida": "UND",
+        "tipo": "SERIALIZADO",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0001",
+        "descripcion": "BARRA 14 LIBRAS LARGA",
+        "precio": "10000.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0002",
+        "descripcion": "BARRA PATA DE CABRA 18",
+        "precio": "10001.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0003",
+        "descripcion": "BROCA PARA  MADERA  1/4",
+        "precio": "10002.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0004",
+        "descripcion": "BROCA PARA  MADERA  5/16",
+        "precio": "10003.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0005",
+        "descripcion": "BROCA PARA  MADERA 3/8",
+        "precio": "10004.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0006",
+        "descripcion": "BROCA PARA METAL  5/16",
+        "precio": "10005.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0007",
+        "descripcion": "BROCA PARA METAL 1/4",
+        "precio": "10006.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0008",
+        "descripcion": "BROCA PARA METAL 3/8",
+        "precio": "10007.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0009",
+        "descripcion": "BROCAS DE TUNGSTENO  3/8 POR  12",
+        "precio": "10008.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0010",
+        "descripcion": "CAMARA FOTOGRAFICA DIGITAL (CELULAR)",
+        "precio": "10009.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0011",
+        "descripcion": "CERTIFICACION ANUAL FUSIONADORA",
+        "precio": "10010.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0012",
+        "descripcion": "CORTADORA DE FIBRA CON 2 HEXAGONAS",
+        "precio": "10011.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0013",
+        "descripcion": "CORTAFRIOS",
+        "precio": "10012.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0014",
+        "descripcion": "DISPENSADOR DE ALCOHOL ISOPROPILICO",
+        "precio": "10013.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0015",
+        "descripcion": "EMPALMADORA POR FUSION F.O",
+        "precio": "10014.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0016",
+        "descripcion": "EXTENSION DE CORRIENTE 15 M DE A5 AMP",
+        "precio": "10015.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0017",
+        "descripcion": "FUENTE DE LUZ LASER F.O",
+        "precio": "10016.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0018",
+        "descripcion": "INVERSOR A 110 V",
+        "precio": "10017.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0019",
+        "descripcion": "JUEGO DESTORNILLADORES DE ESTRELLA GRANDES Y PEQUEÑOS",
+        "precio": "10018.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0020",
+        "descripcion": "JUEGO DESTORNILLADORES DE PALA GRANDES Y PEQUEÑOS",
+        "precio": "10019.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0021",
+        "descripcion": "KIT DE LIMPIEZA CONECTOR FIBRA TIPO PEN",
+        "precio": "10020.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0022",
+        "descripcion": "LINTERNA RECARGABLE",
+        "precio": "10021.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0023",
+        "descripcion": "LLAVE EXPANSIVA 12",
+        "precio": "10022.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0024",
+        "descripcion": "MESA PARA EMPALMAR (CON SOMBRILLA) Y 2 SILLAS",
+        "precio": "10023.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0025",
+        "descripcion": "OTDR (GENERADOR DE TONO)",
+        "precio": "10024.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0026",
+        "descripcion": "PINZA DE PUNTA  8",
+        "precio": "10025.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0027",
+        "descripcion": "PINZA PELA FIBRA STRIPPER",
+        "precio": "10026.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0028",
+        "descripcion": "PLANTA ELÉCTRICA INSONORIZADA",
+        "precio": "10027.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0029",
+        "descripcion": "POWER METER CON ADAPTADOR",
+        "precio": "10028.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0030",
+        "descripcion": "SEGUETA MARCO Y SEGUETA",
+        "precio": "10029.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0031",
+        "descripcion": "TIJERA CORTA LAMINA",
+        "precio": "10030.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0032",
+        "descripcion": "ALICATE UNIVERSAL",
+        "precio": "10031.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0033",
+        "descripcion": "ALMADANA 8 LIBRAS",
+        "precio": "10032.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0034",
+        "descripcion": "ANTENALLA",
+        "precio": "10033.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0035",
+        "descripcion": "BALDE",
+        "precio": "10034.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0036",
+        "descripcion": "BANANA CUTER",
+        "precio": "10035.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0037",
+        "descripcion": "CAJA HERRAMIENTAS  METALICA -SURTEK-  25",
+        "precio": "10036.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0039",
+        "descripcion": "CANVAS",
+        "precio": "10037.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0040",
+        "descripcion": "CARPA CUBRIMIENTO",
+        "precio": "10038.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0041",
+        "descripcion": "CIZALLA DE CORTE",
+        "precio": "10039.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0042",
+        "descripcion": "DISCO DE PULIDORA CONCRETO",
+        "precio": "10040.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0043",
+        "descripcion": "DISCO DE PULIDORA METALICO",
+        "precio": "10041.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0044",
+        "descripcion": "ELECTROBOMBA SUMERGIBLE",
+        "precio": "10042.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0045",
+        "descripcion": "ESCALERA DE FIBRA 2 CUERPOS",
+        "precio": "10043.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0046",
+        "descripcion": "GAS MASPP CON MANGUERA BOQUILLA, CHISPERO (TANQUE BUTANO)",
+        "precio": "10044.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0047",
+        "descripcion": "JUEGO DE LLAVES BOCA FIJA 10/11, 18/19, 20/22",
+        "precio": "10045.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0048",
+        "descripcion": "JUEGO DE COPAS KLEIN",
+        "precio": "10046.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0049",
+        "descripcion": "JUEGO DE PINZAS CON AISLAMIENTO",
+        "precio": "10047.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0050",
+        "descripcion": "JUEGO RACHE Y COPAS",
+        "precio": "10048.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0051",
+        "descripcion": "KIT DE CONECTORIZACION QR 750 (KIT OPTICO)",
+        "precio": "10049.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0052",
+        "descripcion": "LLAVE EXPANSIVA 10",
+        "precio": "10050.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0053",
+        "descripcion": "LLAVE EXPANSIVA 15",
+        "precio": "10051.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0054",
+        "descripcion": "LLAVE PICO LORO",
+        "precio": "10052.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0055",
+        "descripcion": "LOOPERA",
+        "precio": "10053.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0056",
+        "descripcion": "MALACATE ENTENALLA PARA TEMPLAR CABLE",
+        "precio": "10054.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0057",
+        "descripcion": "MARTILLO DE UÑA",
+        "precio": "10055.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0058",
+        "descripcion": "MASETA",
+        "precio": "10056.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0059",
+        "descripcion": "PELA CABLE DUAL RG11- RG6",
+        "precio": "10057.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0060",
+        "descripcion": "PISTOLA DE SILICONA",
+        "precio": "10058.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0061",
+        "descripcion": "PORTACARRETE",
+        "precio": "10059.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0062",
+        "descripcion": "PROBADOR DE FASE",
+        "precio": "10060.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0063",
+        "descripcion": "PULIDORA",
+        "precio": "10061.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0064",
+        "descripcion": "PUNTERO DE 30 CM",
+        "precio": "10062.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0065",
+        "descripcion": "QUITAMENSAJERO PARA CABLE COAXIAL",
+        "precio": "10063.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0066",
+        "descripcion": "ROLDANAS PARA CAMARA",
+        "precio": "10064.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0067",
+        "descripcion": "SONDA DIELECTRICA DE 80 M",
+        "precio": "10065.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0069",
+        "descripcion": "ZUNCHADORA",
+        "precio": "10066.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0070",
+        "descripcion": "MEDIDOR DE CAMPO ANALOGO/DIGITAL DOCSIS 3.0",
+        "precio": "10067.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0071",
+        "descripcion": "LLANA DE MADERA",
+        "precio": "10068.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0072",
+        "descripcion": "LLANA METALICA",
+        "precio": "10069.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0073",
+        "descripcion": "LLAVE LOCKING MALE",
+        "precio": "10070.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0074",
+        "descripcion": "LLAVE RELIENCE",
+        "precio": "10071.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0075",
+        "descripcion": "LLAVE DE TORQUE 6",
+        "precio": "10072.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0076",
+        "descripcion": "LLAVE DE TORQUE 11",
+        "precio": "10073.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0077",
+        "descripcion": "MULTITOMA",
+        "precio": "10074.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0078",
+        "descripcion": "PALA",
+        "precio": "10075.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0079",
+        "descripcion": "PALUSTRE",
+        "precio": "10076.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0080",
+        "descripcion": "PICA",
+        "precio": "10077.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0081",
+        "descripcion": "PLOMADA",
+        "precio": "10078.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0082",
+        "descripcion": "PONCHADORA DUAL RG6- RG11",
+        "precio": "10079.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0083",
+        "descripcion": "PREPARADOR CABLE 500",
+        "precio": "10080.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0084",
+        "descripcion": "RATCHET",
+        "precio": "10081.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0085",
+        "descripcion": "REMACHADORA",
+        "precio": "10082.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0086",
+        "descripcion": "SAPO COMELON PARA MALACATE",
+        "precio": "10083.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0087",
+        "descripcion": "SONDA METALICA",
+        "precio": "10084.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0088",
+        "descripcion": "TALADRO PERCUTOR DW- 1/2 CON LLAVE 800W",
+        "precio": "10085.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0089",
+        "descripcion": "ODOMETRO",
+        "precio": "10086.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0091",
+        "descripcion": "CAJA GRANDE PORTA HERRAMIENTAS 20 RIMAX",
+        "precio": "10087.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0093",
+        "descripcion": "LIMPIADOR DE CONDUCTOR CENTRAL CC-100",
+        "precio": "10088.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0094",
+        "descripcion": "NIVEL",
+        "precio": "10089.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0095",
+        "descripcion": "LLAVE LOCKING MALE TERMINATOR",
+        "precio": "10090.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0096",
+        "descripcion": "LLAVE RELIANCE",
+        "precio": "10091.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0097",
+        "descripcion": "MARTILLO PATA DE CABRA",
+        "precio": "10092.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0098",
+        "descripcion": "SONDA PARA INSTALACIONES DOMICILIARIAS",
+        "precio": "10093.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0099",
+        "descripcion": "CALIBRADOR PLASTICO",
+        "precio": "10094.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0100",
+        "descripcion": "MEDIDOR DE CAMPO DSAM 6300",
+        "precio": "10095.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0101",
+        "descripcion": "MULTIMETRO DIGITAL FLUKE CON PUNTAS",
+        "precio": "10096.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0102",
+        "descripcion": "DECAMETRO",
+        "precio": "10097.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0103",
+        "descripcion": "BISTURI METALICO",
+        "precio": "10098.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0104",
+        "descripcion": "CABLE ADAPTADOR DE USB A PUERTO DE CONSOLA",
+        "precio": "10099.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0105",
+        "descripcion": "CERTIFICACION ANUAL MEDIDOR DE CAMPO",
+        "precio": "10100.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0106",
+        "descripcion": "COMPUTADOR PORTATIL",
+        "precio": "10101.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0107",
+        "descripcion": "ESCALERA 2.5",
+        "precio": "10102.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0108",
+        "descripcion": "ESPATULA 2   MANGO PLASTICO",
+        "precio": "10103.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0109",
+        "descripcion": "JUEGO DE LLAVES BRISTOL",
+        "precio": "10104.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0110",
+        "descripcion": "JUEGO KIT COPA SIERRA",
+        "precio": "10105.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0111",
+        "descripcion": "LLAVE DE TORQUE 7/16",
+        "precio": "10106.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0112",
+        "descripcion": "PESCA ELECTRICA 3/16- X 30 MTS",
+        "precio": "10107.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0113",
+        "descripcion": "PLANILLERO",
+        "precio": "10108.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0114",
+        "descripcion": "PONCHADORA RJ11 - RJ45",
+        "precio": "10109.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0115",
+        "descripcion": "BUTT SET (TELEFONO DE PRUEBA)",
+        "precio": "10110.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0116",
+        "descripcion": "BINOCULARES",
+        "precio": "10111.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0117",
+        "descripcion": "BOBINA DE LANZAMIENTO",
+        "precio": "10112.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0118",
+        "descripcion": "BROCHA",
+        "precio": "10113.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0119",
+        "descripcion": "CARETA PARA TALADRAR POR MOVIL",
+        "precio": "10114.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0120",
+        "descripcion": "CERTIFICACION PARA EMPALMADORA DE FIBRA",
+        "precio": "10115.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0121",
+        "descripcion": "CUBIERTAS PARA CALZADO DESCARTABLE (ZAPATONES)",
+        "precio": "10116.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0122",
+        "descripcion": "CUCHILLAS PARA BISTURÍ JGO DE 10 PIEZAS",
+        "precio": "10117.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0123",
+        "descripcion": "DESTORNILLADOR DE ESTRELLA",
+        "precio": "10118.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0124",
+        "descripcion": "DESTORNILLADOR DE PALA",
+        "precio": "10119.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0125",
+        "descripcion": "EMISOR LASER",
+        "precio": "10120.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0126",
+        "descripcion": "EMPALMADORA DE FUSION FUJIKURA FMS50S",
+        "precio": "10121.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0127",
+        "descripcion": "EQUIPO DE SOLDADURA",
+        "precio": "10122.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0128",
+        "descripcion": "ESTACION PARA FUSION MESA - CARPA",
+        "precio": "10123.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0129",
+        "descripcion": "FUENTE DE LUZ VISIBLE",
+        "precio": "10124.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0130",
+        "descripcion": "HOMBRESOLO",
+        "precio": "10125.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0131",
+        "descripcion": "INVERSOR DE DC/AC 500W",
+        "precio": "10126.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0132",
+        "descripcion": "JUEGO DE LLAVES BOCA FIJA 12 , 1/2)",
+        "precio": "10127.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0133",
+        "descripcion": "KIT DE LIMPIEZA",
+        "precio": "10128.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0134",
+        "descripcion": "KIT DE PREPARACION FIBRA OPTICA",
+        "precio": "10129.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0135",
+        "descripcion": "MACHETE",
+        "precio": "10130.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0136",
+        "descripcion": "NAVAJA CURVA",
+        "precio": "10131.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0137",
+        "descripcion": "OTDR GPON",
+        "precio": "10132.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0138",
+        "descripcion": "PINZA DE TRAFICO",
+        "precio": "10133.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0139",
+        "descripcion": "PINZA VOLTIAMPERIMETRICA",
+        "precio": "10134.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0140",
+        "descripcion": "REFLECTOR  DE 500 LUM CON TRIPODE",
+        "precio": "10135.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0141",
+        "descripcion": "SANGRADO DE BUFFER",
+        "precio": "10136.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0142",
+        "descripcion": "SILLA DE TRABAJO",
+        "precio": "10137.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0143",
+        "descripcion": "TACO DE MADERA (10*10*30)*3",
+        "precio": "10138.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0144",
+        "descripcion": "TIJERAS",
+        "precio": "10139.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0145",
+        "descripcion": "CAJON PARA MOTO SEGÚN ESPECIFICACIONES",
+        "precio": "10140.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0146",
+        "descripcion": "CAUTIN  ELECTRICO",
+        "precio": "10141.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0147",
+        "descripcion": "ENTORCHADORA",
+        "precio": "10142.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0148",
+        "descripcion": "GENERADOR DE TONO",
+        "precio": "10143.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0149",
+        "descripcion": "ESPATULA",
+        "precio": "10144.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0150",
+        "descripcion": "JUEGO DE DESTORNILLADORES TIPO PERILLERO DE ESTRELLA Y PALA CON AISLAMIENTO",
+        "precio": "10145.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0151",
+        "descripcion": "JUEGO DE DESTORNILLADORES DE ESTRELLA Y PALA CON AISLAMIENTO",
+        "precio": "10146.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0152",
+        "descripcion": "LLAVE EXPANSIVA 6",
+        "precio": "10147.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0153",
+        "descripcion": "MULTIMETRO DIGITAL",
+        "precio": "10148.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0154",
+        "descripcion": "PELACABLE ( PINZA DE PRESION)",
+        "precio": "10149.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0155",
+        "descripcion": "PONCHADORA TELEFONICA",
+        "precio": "10150.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0156",
+        "descripcion": "POWER METER (MEDIDOR POTENCIA OPTICO)",
+        "precio": "10151.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0157",
+        "descripcion": "CALIBRACION DE EQUIPOS DE MEDICION DIA EXPERTO",
+        "precio": "10152.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0158",
+        "descripcion": "CONECTOR I-STOP-42 REVERSE TEST TRTC",
+        "precio": "10153.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0159",
+        "descripcion": "CORIN .500",
+        "precio": "10154.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0160",
+        "descripcion": "CORIN .715",
+        "precio": "10155.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0161",
+        "descripcion": "DESTORNILLADOR PERILLERO",
+        "precio": "10156.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0162",
+        "descripcion": "DESTORNILLADOR TESTER",
+        "precio": "10157.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0163",
+        "descripcion": "ESCALERA FIBRA",
+        "precio": "10158.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0164",
+        "descripcion": "ESCALERA TIJERA",
+        "precio": "10159.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0165",
+        "descripcion": "LÁMPARAS MANO REJILLA 110 VOL AC  2000 LUX MIN",
+        "precio": "10160.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0166",
+        "descripcion": "LLAVE BOCA FIJA 10/11",
+        "precio": "10161.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0167",
+        "descripcion": "MANILA 3/8 BLANDA PARA AYUDANTE DE REDES",
+        "precio": "10162.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0168",
+        "descripcion": "MEDIDOR CPAT DRV3 LITE",
+        "precio": "10163.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0169",
+        "descripcion": "MEDIDOR DE CAMPO ONE EXPERT VIAVI",
+        "precio": "10164.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0170",
+        "descripcion": "MULTÍMETRO DIGITAL FLUKE CON PUNTAS",
+        "precio": "10165.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0171",
+        "descripcion": "PELA CHAQUETA .500",
+        "precio": "10166.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0172",
+        "descripcion": "PELA CHAQUETA .715",
+        "precio": "10167.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0173",
+        "descripcion": "PINZA DE TIERRA",
+        "precio": "10168.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0174",
+        "descripcion": "PINZA MULTIAMPERIMETRICA",
+        "precio": "10169.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0175",
+        "descripcion": "PLANTA GENERADORA ELECTRICA 3000 W",
+        "precio": "10170.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0176",
+        "descripcion": "PREPARADOR DE CABLE 715",
+        "precio": "10171.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0177",
+        "descripcion": "BOQUILLA PARA GAS CON MANGUERA DE 11/4",
+        "precio": "10172.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0178",
+        "descripcion": "ESCALERAS 2,5 TIJERA",
+        "precio": "10173.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0179",
+        "descripcion": "ESCALERA DE 3 A 6 M",
+        "precio": "10174.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0180",
+        "descripcion": "FLEXOMETRO 8 METROS",
+        "precio": "10175.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0181",
+        "descripcion": "CERTIFICACION PARA MEDIDOR DE FIBRA OPTICA",
+        "precio": "10176.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0182",
+        "descripcion": "CORTADORA DE FIBRA FO",
+        "precio": "10177.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0183",
+        "descripcion": "DECO DVB PRUEBAS",
+        "precio": "10178.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0184",
+        "descripcion": "FUENTE DE LUZ VISIBLE VFL (30KM) OTDR",
+        "precio": "10179.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0185",
+        "descripcion": "GENERADOR DE POTENCIA FO",
+        "precio": "10180.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0186",
+        "descripcion": "IDENTIFICADOR DE TRAFICO FO",
+        "precio": "10181.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0187",
+        "descripcion": "JUEGO DE LLAVES TORX",
+        "precio": "10182.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0188",
+        "descripcion": "LAMPARAS DE HALOGENO 12 VOL. DC",
+        "precio": "10183.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0189",
+        "descripcion": "MEDIDOR DE POTENCIA FO",
+        "precio": "10184.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0190",
+        "descripcion": "OTDR",
+        "precio": "10185.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0191",
+        "descripcion": "PELA CHAQUETA FO",
+        "precio": "10186.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0192",
+        "descripcion": "PELADOR DE FIBRA STRIPPER",
+        "precio": "10187.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0193",
+        "descripcion": "SAPO COMELON ANTENALLA 1500 LBS",
+        "precio": "10188.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0194",
+        "descripcion": "BARRA METALICA MINIMO DE 1,30M X 10 LBS",
+        "precio": "10189.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0195",
+        "descripcion": "BROCA P/MURO -DW- 3/8 X12 DW",
+        "precio": "10190.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0196",
+        "descripcion": "BROCA MURO 5/16  IRWIN",
+        "precio": "10191.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0197",
+        "descripcion": "BROCA P/MADERA IRWIN 1/4",
+        "precio": "10192.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0198",
+        "descripcion": "DESTORNILLADOR  1/4X4 ESTRELLA",
+        "precio": "10193.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0199",
+        "descripcion": "DESTORNILLADOR   1/4X4 PALA",
+        "precio": "10194.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0200",
+        "descripcion": "ESPATULA 2   MANGO PLASTICO",
+        "precio": "10195.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0201",
+        "descripcion": "ESCALERA FIBRA 8 MTRS",
+        "precio": "10196.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0202",
+        "descripcion": "EXTENSION ENCAU. -FULGORE -15M",
+        "precio": "10197.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0203",
+        "descripcion": "MULTIMETRO 10A -UNI-T- UT33B CON PUNTAS",
+        "precio": "10198.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0204",
+        "descripcion": "PISTOLA MINI SILICONA - STANLEY  14W.",
+        "precio": "10199.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0205",
+        "descripcion": "TABLA DE APOYO PLASTICA",
+        "precio": "10200.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0206",
+        "descripcion": "PESCA ELECTRICA 3/16- X 30 MTS",
+        "precio": "10201.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0207",
+        "descripcion": "LLAVE DE TORQUE RG11  JONARD",
+        "precio": "10202.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0208",
+        "descripcion": "LLAVE DE TORQUE RG6 JONARD PEQ. SLEEVES",
+        "precio": "10203.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0209",
+        "descripcion": "LLAVE LOCKING JONARD",
+        "precio": "10204.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0210",
+        "descripcion": "PELA CABLE DUAL GENERICO",
+        "precio": "10205.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0211",
+        "descripcion": "MEDIDOR DE CAMPO DIGITAL",
+        "precio": "10206.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0212",
+        "descripcion": "TELEFONO ALCATEL TEMPORIS T-16",
+        "precio": "10207.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0213",
+        "descripcion": "BOLSO RENO GRANDE EXPANDIENTE",
+        "precio": "10208.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0214",
+        "descripcion": "BOLSO",
+        "precio": "10209.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0215",
+        "descripcion": "CAJON",
+        "precio": "10210.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0216",
+        "descripcion": "COMPUTADOR",
+        "precio": "10211.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    },
+    {
+        "codigo": "HER0217",
+        "descripcion": "JUEGO DE DESTORNILLADORES PALA Y ESTRELLA",
+        "precio": "10212.000",
+        "medida": "UND",
+        "tipo": "NORMAL",
+        "categoria": "HERRAMIENTAS",
+        "subcategoria": "EQUIPOS",
+        "area": [
+            "general"
+        ]
+    }
+]
